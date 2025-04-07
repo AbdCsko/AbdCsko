@@ -3,7 +3,7 @@
 🎓 Étudiant en développement à l’EFREI (BTS SIO – option SLAM)  
 📱 Passionné par le **développement mobile** et la **data science**  
 🚀 En route pour devenir un **développeur full stack** & **data scientist complet**  
-🛠️ Actuellement, j'apprends **Dart & Flutter** pour créer une application e-commerce
+🛠️ Actuellement, j'apprends **Dart & Flutter** pour créer une application d'organisation
 
 ---
 
